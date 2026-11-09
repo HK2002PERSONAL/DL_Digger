@@ -1,3 +1,0 @@
-min_coverage,avg_coverage,max_coverage,filename
-0.93619268962603,0.9724771468854839,0.9901903080243281,TEST_allneut/factor_result_allmarket/GRU.parquet/state_coverage.csv
-0.93619268962603,0.9724771468854839,0.9901903080243281,TEST_allneut/factor_result_allmarket/FRETSMIXER.parquet/state_coverage.csv

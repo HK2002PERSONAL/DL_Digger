@@ -1,7 +1,0 @@
-{
-    "config_path": "TEST_allneut/TEST_allneutconfig.json",
-    "data_directory": "TEST_allneut/factor_data",
-    "foldername": "TEST_allneut/factor_result_zz1000",
-    "skip_corr": false,
-    "rerun": false
-}

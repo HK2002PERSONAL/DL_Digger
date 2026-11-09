@@ -1,0 +1,7 @@
+{
+    "config_path": "TEST_cap/TEST_capconfig.json",
+    "data_directory": "TEST_cap/factor_data",
+    "foldername": "TEST_cap/factor_result_zz1000",
+    "skip_corr": false,
+    "rerun": false
+}

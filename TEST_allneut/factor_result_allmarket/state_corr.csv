@@ -1,0 +1,2 @@
+task1,task2,corr_value
+TEST_allneut/factor_result_allmarket/GRU.parquet,TEST_allneut/factor_result_allmarket/FRETSMIXER.parquet,0.7933069161626821

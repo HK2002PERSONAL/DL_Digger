@@ -1,0 +1,3 @@
+min_coverage,avg_coverage,max_coverage,filename
+0.982,0.9938421975453093,1.0,TEST_allneut/factor_result_zz500/FRETSMIXER.parquet/state_coverage.csv
+0.982,0.9938421975453093,1.0,TEST_allneut/factor_result_zz500/GRU.parquet/state_coverage.csv

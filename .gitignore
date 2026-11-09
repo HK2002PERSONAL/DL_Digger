@@ -1,0 +1,52 @@
+# Data files
+data_raw/
+data/
+*.npy
+*.feather
+*.parquet
+
+# Logs
+_logs/
+*.log
+
+# Rubbish files
+_bin/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+.cache/
+*.cache
+
+# Model files
+*.pt
+*.pth
+*.pkl
+*.h5
+
+# Result
+_result

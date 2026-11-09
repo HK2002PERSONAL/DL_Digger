@@ -1,0 +1,2 @@
+task1,task2,corr_value
+TEST_allneut/factor_result_zz500/GRU.parquet,TEST_allneut/factor_result_zz500/FRETSMIXER.parquet,0.7036622170447717

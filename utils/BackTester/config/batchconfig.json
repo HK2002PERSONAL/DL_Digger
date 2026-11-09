@@ -1,0 +1,7 @@
+{
+    "config_path": "config.json", 
+    "data_directory": "",
+    "foldername": "",
+    "skip_corr": false,
+    "rerun": false
+}

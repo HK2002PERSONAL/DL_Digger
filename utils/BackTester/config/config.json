@@ -1,0 +1,42 @@
+ {
+    "dirname": "",
+    "filename": "",
+    "foldername": "",
+    "username": "kai.hu",
+    "universe": "allmarket",
+    "year_to_check": "all_history",
+    "startdate": "20150101",
+    "enddate": "",
+    "neutralize": [
+        "lncap"
+    ],
+    "ind_neut": "1",
+    "return_choice": "closeToCloseDecay",
+    "forbidden_pool": [
+        "ifspecialtrade",
+        "ifsuspended",
+        "ifsuspendednextday",
+        "ifnewlisted",
+        "iflimitup",
+        "iflimitdown",
+        "iflimitup_",
+        "iflimitdown_"
+    ],
+    "customized_forbidden": "noforbidden",
+    "outlier_pool": [
+        "iflimitupnextday",
+        "iflimitup_nextday",
+        "iflimitdownnextday",
+        "iflimitdown_nextday"
+    ],
+    "iffillna": "0",
+    "if_debug": "0",
+    "groups": "10",
+    "if_avg_risk_expo": "0",
+    "quick_test": "1",
+    "regression_least_num": 50,
+    "only_pdf": false,
+    "skip_csv": true,
+    "state_periods": ["1d", "5d", "20d"],
+    "output_periods": ["5d"]
+  }
